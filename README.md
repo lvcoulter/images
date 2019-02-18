@@ -1,2 +1,2 @@
 # images
-Images for freecodecamp guide
+Images for freecodecamp guide and personal projects
